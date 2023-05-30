@@ -1,0 +1,13 @@
+MAIN_WINDOW_SIZE = {"w": 1440, "h": 720}
+TITLE_NAME = "同济大学软件学院-操作系统课程设计项目2：内存管理模拟-2151641-王佳垚"
+SLIDER_WIDTH = 200
+SLIDER_COLOR = "#BFC8D7"
+BACK_COLOR = "#FFFFFF"
+PROFILE_PATH = "./resource/profile.jpg"
+FILE_PATH = "./resource/order.txt"
+INS_NUM = 320
+PAGE_INS_NUM = 10
+PAGE_NUM = 4
+ALGORITHM = 0
+ORDER = 0
+ANIM_DURATION = 1000
