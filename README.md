@@ -34,11 +34,11 @@ python start.py
 
 - 提示清晰，引导好
 
-![Untitled](./README.assets/Untitled 1.png)
+![Untitled](./README.assets/Untitled1.png)
 
-![Untitled](./README.assets/Untitled 2.png)
+![Untitled](./README.assets/Untitled2.png)
 
-![Untitled](./README.assets/Untitled 3.png)
+![Untitled](./README.assets/Untitled3.png)
 
 - 动画效果好，不管是交换栈里页面的顺序还是新加页面都很生动，展示清晰
 
@@ -46,7 +46,7 @@ python start.py
 
 - 交互性好
 
-![Untitled](./README.assets/Untitled 4.png)
+![Untitled](./README.assets/Untitled4.png)
 
 # 项目总结
 
